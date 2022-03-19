@@ -1,4 +1,4 @@
-package cputime
+package benchmore
 
 import (
 	"syscall"
